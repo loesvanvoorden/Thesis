@@ -1,0 +1,7 @@
+Feature,Description
+Subject ID,"The code that a participant is assigned to. E.g., OAS2_0001."
+MRI ID,"The code that describes the MR session. E.g., OAS2_0001_MR1."
+Group,Describes the Alzheimer state of the participant at the moment of the scan session. Either Demented or Nondemented.
+Visit,"Corresponds with MRI ID. E.g., visit = 3."
+Images,Contains the images in the form of a numpy array.
+Cropped [1-8],"Every cropped picture has its own column, it contains a certain voxel space of the full sized images, also in numpy array format."
