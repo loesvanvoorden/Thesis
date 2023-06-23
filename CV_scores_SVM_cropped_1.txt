@@ -51,4 +51,4 @@ SVM with C = 100:
 {'test_score': array([0.52941176, 0.58823529, 0.44117647, 0.58823529, 0.64705882,
        0.61764706, 0.42424242, 0.63636364, 0.54545455, 0.63636364]), 'train_score': array([1., 1., 1., 1., 1., 1., 1., 1., 1., 1.])}
 
-Cropped_1_1 has the best test score (0.6188057040998217) with C = 1 and standard error 0.07999281275603276
+Cropped_1_1 has the best test score (0.6688057040998217) with C = 1 and standard error 0.07999281275603276
